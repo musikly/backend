@@ -3,7 +3,7 @@ package soundcloud
 import (
 	"net/http"
 
-	"github.com/imthaghost/musik/backend/internal/logger"
+	"github.com/musikly/backend/internal/logger"
 )
 
 // SoundCloud struct

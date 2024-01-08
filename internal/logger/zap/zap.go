@@ -3,7 +3,7 @@ package zap
 import (
 	"go.uber.org/zap"
 
-	"github.com/imthaghost/musik/backend/internal/logger"
+	"github.com/musikly/backend/internal/logger"
 )
 
 type Service struct {

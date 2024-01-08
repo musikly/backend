@@ -1,4 +1,4 @@
-module github.com/imthaghost/musik/backend
+module github.com/musikly/backend
 
 go 1.21.4
 
@@ -6,7 +6,6 @@ require (
 	github.com/antchfx/htmlquery v1.2.3
 	github.com/getsentry/sentry-go v0.25.0
 	github.com/joho/godotenv v1.5.1
-	github.com/k0kubun/pp/v3 v3.2.0
 	github.com/labstack/echo/v4 v4.11.4
 	github.com/pkg/errors v0.9.1
 	go.uber.org/zap v1.26.0

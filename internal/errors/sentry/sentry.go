@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/imthaghost/musik/backend/config"
-	"github.com/imthaghost/musik/backend/internal/errors"
+	"github.com/musikly/backend/config"
+	"github.com/musikly/backend/internal/errors"
 
 	"github.com/getsentry/sentry-go"
 )

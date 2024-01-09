@@ -5,10 +5,10 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"github.com/musikly/backend/config"
-	"github.com/musikly/backend/internal/errors"
-	"github.com/musikly/backend/internal/logger"
-	"github.com/musikly/backend/internal/music"
+	"github.com/imthaghost/musik/backend/config"
+	"github.com/imthaghost/musik/backend/internal/errors"
+	"github.com/imthaghost/musik/backend/internal/logger"
+	"github.com/imthaghost/musik/backend/internal/music"
 )
 
 // Server represents an API wrapper around the SoundCloud API

@@ -1,4 +1,4 @@
-module github.com/imthaghost/musik/backend
+module github.com/musikly/backend
 
 go 1.21.4
 

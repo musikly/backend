@@ -11,11 +11,11 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/imthaghost/musik/backend/config"
-	"github.com/imthaghost/musik/backend/internal/api"
-	"github.com/imthaghost/musik/backend/internal/errors/sentry"
-	"github.com/imthaghost/musik/backend/internal/logger/zap"
-	"github.com/imthaghost/musik/backend/internal/music/soundcloud"
+	"github.com/musikly/backend/config"
+	"github.com/musikly/backend/internal/api"
+	"github.com/musikly/backend/internal/errors/sentry"
+	"github.com/musikly/backend/internal/logger/zap"
+	"github.com/musikly/backend/internal/music/soundcloud"
 )
 
 var startup time.Time
